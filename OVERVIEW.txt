@@ -1,0 +1,13 @@
+FDSV - Fin Deflection Stablized Vechicle 
+
+-This project is about controlling a vechicle in the air once it is dropped from a certain height. Near the end of it's height, a pair of deployable legs are extended out to prevent the rocket from completely crashing. 
+
+Computer: Raspberry Pi Pico
+
+IMU: IMU6050
+
+Servos: SG90s
+
+Battery: 3.3v Small Drone Battery
+
+Power Amplifier: 3.3v(prongs) to 5v (USB-OUT) + MicroUSB Cable
